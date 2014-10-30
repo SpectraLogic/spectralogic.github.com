@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.spectralogic.ds3</groupId>
+  <artifactId>ds3-sdk</artifactId>
+  <version>0.7.6-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>0.7.6-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20141030171823</lastUpdated>
+  </versioning>
+</metadata>
