@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.spectralogic.hadoop</groupId>
+  <artifactId>ds3-hadoop-cli</artifactId>
+  <version>0.7.0-STUB</version>
+  <versioning>
+    <versions>
+      <version>0.7.0-STUB</version>
+    </versions>
+    <lastUpdated>20141030170655</lastUpdated>
+  </versioning>
+</metadata>
