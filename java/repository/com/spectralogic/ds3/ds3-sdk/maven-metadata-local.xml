@@ -2,7 +2,7 @@
 <metadata>
   <groupId>com.spectralogic.ds3</groupId>
   <artifactId>ds3-sdk</artifactId>
-  <version>0.7.6-SNAPSHOT</version>
+  <version>0.7.7-SNAPSHOT</version>
   <versioning>
     <versions>
       <version>0.7.6-SNAPSHOT</version>
