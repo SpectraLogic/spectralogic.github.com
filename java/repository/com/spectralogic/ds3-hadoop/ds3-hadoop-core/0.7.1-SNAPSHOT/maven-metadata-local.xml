@@ -2,12 +2,11 @@
 <metadata>
   <groupId>com.spectralogic.ds3-hadoop</groupId>
   <artifactId>ds3-hadoop-core</artifactId>
-  <version>0.7.0-SNAPSHOT</version>
+  <version>0.7.1-SNAPSHOT</version>
   <versioning>
-    <versions>
-      <version>0.7.0-SNAPSHOT</version>
-      <version>0.7.1-SNAPSHOT</version>
-    </versions>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
     <lastUpdated>20150122003447</lastUpdated>
   </versioning>
 </metadata>
