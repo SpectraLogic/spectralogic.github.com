@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.spectralogic.ds3-hadoop</groupId>
+  <artifactId>ds3-hadoop-core</artifactId>
+  <version>0.8.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20150511194132</lastUpdated>
+  </versioning>
+</metadata>
